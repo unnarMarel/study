@@ -3,3 +3,4 @@ Will this change be commited?
 This is the third change.
 Fourth change here.
 Fifth line added
+Second branch sixth line
